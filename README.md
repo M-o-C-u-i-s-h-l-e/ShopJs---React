@@ -2,6 +2,8 @@
 
 > **eCommerce platform built with the MERN stack & Redux.**
 
+[ShopJs](https://shopjsapp.herokuapp.com/)
+
 ### Env Variables
 
 Create a .env file in the root and add the following
