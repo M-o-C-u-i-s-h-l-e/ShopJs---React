@@ -2,7 +2,7 @@
 
 > **eCommerce platform built with the MERN stack & Redux.**
 
-> **## To see how it lookslike. Visit [ShopJs](https://shopjsapp.herokuapp.com/).*
+##> **To see how it lookslike. Visit [ShopJs](https://shopjsapp.herokuapp.com/).**
 
 ### Env Variables
 
