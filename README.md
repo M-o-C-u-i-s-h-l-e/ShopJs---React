@@ -4,7 +4,7 @@
 
 ### Env Variables
 
-Create a .env file in then root and add the following
+Create a .env file in the root and add the following
 
 ```
 NODE_ENV = development
